@@ -1,5 +1,5 @@
 
-![Virteki's Github Stats](https://github-readme-stats.vercel.app/api?username=virteki&show_icons=true&theme=merko)
+![Virteki's Github Stats](https://github-readme-stats.vercel.app/api?username=virteki&show_icons=true&theme=vue)
 
 
 <!--
