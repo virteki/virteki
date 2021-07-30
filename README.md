@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Virteki's Github Stats](https://github-readme-stats.vercel.app/api/pin/?username=virteki&repo=github-readme-stats)](https://github.com/virteki/github-readme-stats)
+
 
 <!--
 **virteki/virteki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
